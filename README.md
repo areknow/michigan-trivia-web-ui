@@ -1,4 +1,4 @@
-michigan-trivia-web-ui
+Michigan Trivia - Web UI
 ======================
 3rd place winner of 2014 Code Michigan - Detroit competition
 
