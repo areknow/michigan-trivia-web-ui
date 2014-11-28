@@ -1,0 +1,27 @@
+info: socket.io started
+Express server listening on port 8181
+http://localhost:8181/
+debug: client authorized
+info: handshake authorized JI6YuBmU-QARf3nP7eRD
+debug: setting request GET /socket.io/1/websocket/JI6YuBmU-QARf3nP7eRD
+debug: set heartbeat interval for client JI6YuBmU-QARf3nP7eRD
+debug: client authorized for 
+debug: websocket writing 1::
+debug: emitting heartbeat for client JI6YuBmU-QARf3nP7eRD
+debug: websocket writing 2::
+debug: set heartbeat timeout for client JI6YuBmU-QARf3nP7eRD
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client JI6YuBmU-QARf3nP7eRD
+debug: set heartbeat interval for client JI6YuBmU-QARf3nP7eRD
+debug: emitting heartbeat for client JI6YuBmU-QARf3nP7eRD
+debug: websocket writing 2::
+debug: set heartbeat timeout for client JI6YuBmU-QARf3nP7eRD
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client JI6YuBmU-QARf3nP7eRD
+debug: set heartbeat interval for client JI6YuBmU-QARf3nP7eRD
+debug: emitting heartbeat for client JI6YuBmU-QARf3nP7eRD
+debug: websocket writing 2::
+debug: set heartbeat timeout for client JI6YuBmU-QARf3nP7eRD
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client JI6YuBmU-QARf3nP7eRD
+debug: set heartbeat interval for client JI6YuBmU-QARf3nP7eRD
